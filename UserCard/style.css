@@ -1,0 +1,37 @@
+
+
+.container {
+    width: 700px;
+    height: 400px;
+    background-color: lightgray;
+    border-radius: 3px;
+    margin: 100px;
+}
+.navTop {
+    width: inherit;
+    height: 100px;
+    background-color: rgb(13, 177, 189);
+}
+.navBottom {
+    width: 630px;
+    height: 235px;
+    background-color: white;
+    margin-left: 5px;
+    padding: 30px;
+}
+.info {
+    position: absolute;
+    top: 230px;
+}
+img {
+    width: 20px;
+}
+#profilePic {
+    position: absolute;
+    top: 150px;
+    left: 150px;
+    width: 100px;
+}
+#location {
+    display: inline-block;
+}
