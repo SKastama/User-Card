@@ -1,0 +1,28 @@
+.navTitle {
+    color: white;
+    font-weight: lighter;
+    height: 35px;
+    width: 50px;
+    margin-left: 20px;
+}
+a:link{
+    color: rgb(165, 165, 165);
+    text-decoration: none;
+}
+.navLinks {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    height: 50px;
+    width: 480px;
+}
+}
+#btn {
+    border: 2px solid black;
+    color: white;
+    background-color: rgb(26, 167, 202);
+    
+    width: 100px;
+}
+.container {
+    width: 960px;
